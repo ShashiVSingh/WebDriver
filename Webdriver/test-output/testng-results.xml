@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13529" started-at="2017-07-28T23:19:42Z" finished-at="2017-07-28T23:19:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13529" started-at="2017-07-28T23:19:42Z" finished-at="2017-07-28T23:19:56Z">
+      <class name="examples.DragAndDrop">
+        <test-method status="PASS" signature="handleCookies()[pri:0, instance:examples.DragAndDrop@458ad742]" name="handleCookies" duration-ms="13479" started-at="2017-07-28T16:19:42Z" finished-at="2017-07-28T16:19:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleCookies -->
+      </class> <!-- examples.DragAndDrop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
